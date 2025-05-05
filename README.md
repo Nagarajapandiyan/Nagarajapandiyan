@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning B.Voc in Networking and Mobile Applications at PSG College of Arts and Science, along with IoT, software development, and AI-based projects.
 - 💞️ I’m looking to collaborate on software, IoT, and AI-based projects, especially in mobile app development, automation, and smart systems.
 - 📫 How to reach me: https://www.instagram.com/s.nagaraj_nagaraj_?igsh=ZWN5bHI2cXhvZ3gy
-- 😄 Pronouns: 
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love experimenting with new tech ideas and have experience in graphic & web design, hardware servicing, and AI-powered automation projects!
 
 <!---
