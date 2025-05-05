@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nagarajapandiyan
+- 👋 Hi, I’m @Nagarajapandiyan Saravanan 
 - 👀 I’m interested in tech, IoT, networking, mobile applications, software development, entrepreneurship, and fitness.
 - 🌱 I’m currently learning B.Voc in Networking and Mobile Applications at PSG College of Arts and Science, along with IoT, software development, and AI-based projects.
 - 💞️ I’m looking to collaborate on software, IoT, and AI-based projects, especially in mobile app development, automation, and smart systems.
